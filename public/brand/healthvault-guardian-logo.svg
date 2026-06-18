@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-labelledby="title desc">
+  <title id="title">HealthVault Guardian logo</title>
+  <desc id="desc">A protected local health vault mark with a shield, medical cross, and local inference nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="78" x2="410" y1="44" y2="438" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1420"/>
+      <stop offset=".58" stop-color="#101820"/>
+      <stop offset="1" stop-color="#071b1e"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="146" x2="334" y1="115" y2="370" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64f0df"/>
+      <stop offset="1" stop-color="#14a9a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="480" rx="92" fill="url(#bg)"/>
+  <path fill="none" stroke="#24313b" stroke-linecap="round" stroke-width="2" d="M92 112h296M92 368h296M112 92v296M368 92v296"/>
+  <circle cx="116" cy="116" r="5" fill="#f3b451"/>
+  <circle cx="364" cy="116" r="5" fill="#5be5d7"/>
+  <circle cx="116" cy="364" r="5" fill="#5be5d7"/>
+  <circle cx="364" cy="364" r="5" fill="#f3b451"/>
+  <path fill="#f7fbfb" d="M240 70 355 112v100c0 88-49 146-115 187-66-41-115-99-115-187V112L240 70Z"/>
+  <path fill="url(#teal)" d="M240 99 327 131v78c0 68-35 112-87 147-52-35-87-79-87-147v-78l87-32Z"/>
+  <path fill="#0c1720" d="M240 130 299 151v56c0 46-22 77-59 104-37-27-59-58-59-104v-56l59-21Z"/>
+  <path fill="#f7fbfb" fill-rule="evenodd" d="M224 179h32v45h45v32h-45v45h-32v-45h-45v-32h45v-45Z" clip-rule="evenodd"/>
+  <path fill="none" stroke="#f3b451" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M150 240h-31m242 0h-31"/>
+  <path fill="none" stroke="#5be5d7" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M240 150v-30m0 240v-30"/>
+  <circle cx="119" cy="240" r="12" fill="#f3b451"/>
+  <circle cx="361" cy="240" r="12" fill="#f3b451"/>
+  <circle cx="240" cy="120" r="12" fill="#5be5d7"/>
+  <circle cx="240" cy="360" r="12" fill="#5be5d7"/>
+</svg>
