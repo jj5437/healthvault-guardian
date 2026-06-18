@@ -1,0 +1,9 @@
+{
+  "schemaVersion": "2026-06-03",
+  "remoteApis": [],
+  "cloudAiApis": [],
+  "notes": [
+    "HealthVault Guardian is designed so all AI inference, embeddings, and RAG workloads run locally through @qvac/sdk.",
+    "This manifest must be updated if any optional non-AI service is added."
+  ]
+}

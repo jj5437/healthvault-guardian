@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "2026-06-03",
+  "device": {
+    "modelName": "MacBook Pro",
+    "modelIdentifier": "Mac16,1",
+    "chip": "Apple M4",
+    "cpuCores": 10,
+    "memoryBytes": 17179869184
+  },
+  "track": "General Purpose",
+  "notes": [
+    "Replace this example with fresh system_profiler output and screenshots before final submission."
+  ]
+}

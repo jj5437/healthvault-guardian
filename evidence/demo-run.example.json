@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "2026-06-03",
+  "project": "HealthVault Guardian",
+  "adapterMode": "local-demo",
+  "standardQuestion": "Explain my LDL result and list questions I should ask my doctor.",
+  "documentsLoaded": 3,
+  "chunksCreated": 3,
+  "evidenceFiles": [
+    "remote-apis.json",
+    "hardware.example.json",
+    "demo-run.example.json",
+    "model-lifecycle.jsonl",
+    "inference.jsonl"
+  ],
+  "submissionNote": "Final run must use @qvac/sdk for all AI workloads."
+}

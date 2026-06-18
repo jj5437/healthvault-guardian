@@ -1,0 +1,45 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local model artifacts
+models/
+*.gguf
+*.safetensors
+*.onnx
+
+# OS/editor noise
+.DS_Store
+._*
+*.swp
+
+# Extra submission notes/docs not intended for the public code repo
+SUBMISSION.md
+docs/
+evidence/README.md
+
+# Local evidence generated during judging/demo runs
+evidence/screenshots/
+evidence/system-profiler.txt
+evidence/hardware.json
+evidence/demo-run.json
+evidence/model-lifecycle.jsonl
+evidence/inference.jsonl
+evidence/*.local.json
+evidence/*.private.json
+
+# Demo recording exports
+recordings/
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.wav
